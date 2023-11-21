@@ -1,0 +1,40 @@
+[
+  {
+    "TrasaId": 1,
+    "NazwaTrasy": "GeminiPark",
+    "OpisTrasy": "Centum Handlowe... duże",
+    "TrasaX": 49.802788938739916,
+    "TrasaY": 19.05089561798746,
+    "TrasaLink": "https://www.google.com/maps/dir//Gemini+Park+Bielsko-Bia%C5%82a,+Leszczy%C5%84ska+20,+43-300+Bielsko-Bia%C5%82a/@49.8027336,19.0482724,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47169f789a96b1f9:0xfa415f93dfc7ecc3!2m2!1d19.0508527!2d49.8027336!3e0?hl=pl-PL&entry=ttu"
+
+  },
+  {
+    "TrasaId": 2,
+    "NazwaTrasy": "PKP Mikuszowice",
+    "OpisTrasy": "Stacja Polskich Kolei Państowywch. Dojedziesz nią wszedzie... nooo, może poza Gilowicami",
+    "TrasaX": 49.78376383024303,
+    "TrasaY": 19.07354075079098,
+    "TrasaLink": "https://www.google.com/maps/dir//Bielsko-Bia%C5%82a+Mikuszowice,+43-310+Bielsko-Bia%C5%82a/@49.7874695,19.0614472,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47169fb65e1a97e3:0xe535cf7b9098290c!2m2!1d19.0737072!2d49.7834844!3e0?hl=pl-PL&entry=ttu"
+
+  },
+  {
+    "TrasaId": 3,
+    "NazwaTrasy": "Hotel Vienna",
+    "OpisTrasy": "Miejce do spania. Podobno. Nie wiem, nigdy tam nie byłem.",
+    "TrasaX": 49.792165459262485,
+    "TrasaY": 19.057908806550426,
+    "TrasaLink": "https://www.google.com/maps/dir//Parkhotel+Vienna,+Bystrza%C5%84ska+48,+43-309+Bielsko-Bia%C5%82a/@49.7938435,19.0628724,15.45z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47169fbd78d316bf:0x880d0a05c65003ba!2m2!1d19.057828!2d49.791927!3e0?hl=pl-PL&entry=ttu"
+
+  },
+  {
+    "TrasaId": 4,
+    "NazwaTrasy": "Uniwersytet Bielsko Bialski",
+    "OpisTrasy": "Miejsce do pogłębiania wiedzy",
+    "TrasaX": 49.7828649017653,
+    "TrasaY": 19.05813613563646,
+    "TrasaLink": "https://www.google.com/maps/dir//Biblioteka+G%C5%82%C3%B3wna+UBB,+Willowa+2,+43-309+Bielsko-Bia%C5%82a/@49.7829504,19.0574539,19.18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47169fc0a788768d:0xfd0569112350b1f0!2m2!1d19.0581426!2d49.7828441!3e0?authuser=0&entry=ttu"
+
+  }
+]
+
+
